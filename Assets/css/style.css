@@ -1,0 +1,79 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  line-height: 1;
+}
+
+textarea {
+  background: transparent;
+  border: none;
+  resize: none;
+  color: #000000;
+  border-left: 1px solid black;
+}
+
+li {
+  list-style-type: none;
+}
+
+.jumbotron {
+  text-align: center;
+  background-color: transparent;
+  color: black;
+  border-radius: 0;
+  border-bottom: 10px solid black;
+}
+
+.row {
+  height: 60px;
+  border: 2px solid white;
+}
+
+.time {
+  white-space: pre-wrap;
+  text-align:right;
+  background-color: #ffffff;
+  color: #000000;
+  border: 2px solid white;
+  border-top: 1px dashed #000000;
+  font-size: small;
+}
+
+.events {
+  background-color: #d3d3d3;
+}
+
+.past {
+  background-color: lightgrey;
+  color:grey;
+}
+
+.present {
+  background-color: #ff6961;
+  color: white;
+}
+
+.future {
+  background-color: #77dd77;
+  color: white;
+}
+
+.saveBtn {
+  /* border-left: 3px solid white; */
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+  border-left: white solid 5px;
+  background-color: #06aed5;
+  color: white;
+}
+
+.saveBtn:hover {
+  font-size: 20px;
+  transition: all 0.3s ease-in-out;
+  color: white;
+}
+
+.saveBtn:active {
+  color: white;
+  background-color: darkgreen;
+}
