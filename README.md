@@ -33,9 +33,10 @@ THEN the saved events persist
 ```
 
 ## Screenshot
+![Screenshot of Work Day Scheduler](./Assets/images/screenshot.jpg)
 
 ## URL's
-
 ### GitHub
-
+https://github.com/barrygilreath3/Work-Day-Scheduler
 ### Website
+https://barrygilreath3.github.io/Work-Day-Scheduler/
